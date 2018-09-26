@@ -3,7 +3,7 @@
 
 # Project DAI
 
-This is a project in DAI Lab
+This is a project in DAI Lab that is really great
 
 - Free software: MIT license
 - Documentation: https://micahjsmith.github.io/project_dai
