@@ -4,9 +4,9 @@
 """Tests for `project_dai` package."""
 
 import unittest
+
 from click.testing import CliRunner
 
-from project_dai import project_dai
 from project_dai import cli
 
 
@@ -15,11 +15,9 @@ class TestProject_dai(unittest.TestCase):
 
     def setUp(self):
         """Set up test fixtures, if any."""
-        pass
 
     def tearDown(self):
         """Tear down test fixtures, if any."""
-        pass
 
     def test_000_something(self):
         """Test something."""

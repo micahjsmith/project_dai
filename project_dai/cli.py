@@ -2,6 +2,7 @@
 
 """Console script for project_dai."""
 import sys
+
 import click
 
 
