@@ -12,6 +12,8 @@ install: pip install -U tox-travis
 # Command to run tests
 script: tox
 
+after_success: codecov
+
 deploy:
 
   # Automatically deploy releases to PyPI for each tagged commit
