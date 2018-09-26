@@ -1,0 +1,16 @@
+project\_dai package
+====================
+
+.. automodule:: project_dai
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Submodules
+----------
+
+.. toctree::
+
+   project_dai.cli
+   project_dai.project_dai
+

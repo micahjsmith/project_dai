@@ -1,0 +1,7 @@
+project\_dai.project\_dai module
+================================
+
+.. automodule:: project_dai.project_dai
+    :members:
+    :undoc-members:
+    :show-inheritance:
